@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Pharmacist Rachael Olakunmi Ogunye 
-- 👀 I’m interested in Data Analysis and Python Programming
-- 🌱 I’m currently learning Data Analysis at Udacity
+- 👋 Hi, I’m Rachael Olakunmi Ogunye, a pharmacist.
+- 👀 I’m interested in Data Analysis, Python Programming and Project Management.
+- 🌱 I’m currently learning Project Management (by Google)
 - 💞️ I’m looking to collaborate on data analytics projects and projects involving python programming
 - 📫 You can reach me via mail on ogunyeolakunmi@gmail.com
 
